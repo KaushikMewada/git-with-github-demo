@@ -3,4 +3,4 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
-This line has been added to demonstrate the usage of "GIT PULL" command
+# This line has been added to demonstrate the usage of "GIT PULL" command
